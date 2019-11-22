@@ -1,0 +1,13 @@
+@charset "utf-8";
+/**
+ * _mixin.scss
+ * @author Kayo
+ * @date 2014-10-31
+ *
+ */
+
+// 平台与浏览器适配相关方法
+@import "adaptation";
+
+// 常用工具方法
+@import "tool/tool";
